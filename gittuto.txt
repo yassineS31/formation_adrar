@@ -1,0 +1,35 @@
+1 git init
+2 git remote add origin url_(repertory sur github)
+3 git pull origin master
+4 modif fichier
+5 git add modif
+6 git commit -m "commentaire"
+7 git push origin master
+
+créer une autre branche
+
+git branch NomNouvelleBranch
+
+
+remise (pour copier un fichier d'une branche à l'autre)
+
+si depuis master : 
+
+metre en stage ( git add modif (ou " git add *" pour tout)
+git stash (pour metre dans la remise
+
+git checkout yoan (pour changer de branche)
+
+git stash apply (fichier ou si abscence de fichier alors = apply pour tout ) (pour appliquer la remise à yoan)
+
+git status pour verifier
+
+git commit -m "commentaire"
+git pull origin master(pour metre a niveau github et gitlocal)
+git push orign master
+
+
+ecrire du texte 
+
+echo "texteaécrire">>nomfichier.extention
+

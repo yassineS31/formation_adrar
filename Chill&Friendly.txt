@@ -1,0 +1,91 @@
+Introduction
+
+Nom de l'entreprise : Chill&Friendly 
+Date de créaton 18 Janv 2007
+Raison d'être : Nous sommes une entreprise dont le but est de permetre à des enfants, élèves étudiant en situation de harcelement a cause de leurs couleurs, 
+orientation,origines,religion ou autres de bénéficier au sein de notre structure d'une écoute et d'un accompagnement afin de leurs permetre de s'épanouir
+et de trouver tant au sein de l'équipe éducative ou des autres beneficiaire de notre services les ressources necessaires à leurs épanouissement
+personnel,famillial,social etc....
+
+Notre entreprise met à disposition, à l'instar d'un centre de loisir, tout un tas d'activités gratuites ou non, avec des éducateurs formé et spétialisés dans
+ les cas de harcelements notament scolaire et cyber
+
+le site permet de trouver des activités sportives,ludo-interactives,culturelles ect...
+
+objectif: 
+- créer du lien
+-sociabilisé 
+-créer de la cohésion
+-créer un environnement sein 
+-plateforme unique
+
+
+	cible : 
+
+-jeunes en situation de detresse psychologique ou d'isolement social
+-parents d'enfants
+
+
+
+	Description du site
+
+Page accueil :
+
+Bandeau en haut de gauche a droite /!\ Allo écoute Active 0 800 31 31 31 /!\ (qui défile en continu)
+
+onglet nav a droite : accueil, agenda des activités,Qui sommes nous, Nous contacter
+
+
+
+	Fonctionnalité:
+
+    page d'accueil : actu du site 
+				Chatbox en ligne 24/24 avec des éducateurs spétialisé ou bot ia
+				Mise en avant de réunion,conférence etc....
+
+    Agenda : vu agenda (lundi mardi ..... avec deux parti matin aprèsmidi et liste des activité par demi journée ou journée entière :
+possibilité d'effectuer une recherche avec filtre (type activité , date, prix (gratuit <10€ <25€ etcc)
+
+page déroulante ou les activité se succedent les unes au autres photo a gauche texte à droite et fonctionnalité de reservation et paiement sous le texte 
+
+
+     Qui sommes nous :graphisme d'un livre ouvert ou à gauche se trouve la photo d'un éducateurs homme et de sa brieve description et femme à droite avec description 
+
+     
+
+Livre d'or en bas
+
+
+
+	Délais : deadline 10Novembre 2023 
+
+
+
+	Contraintes : 
+
+-Obligation :
+
+- maintenance 24/24
+respecter les couleurs du logo de l'entreprise bleu ciel et vert émeraude 
+-Le préstataire doit justifier du respect de la lois et de la réglementation en matière de RSE
+Justifier d'une politique RSE avant gardiste notament en matière sociale (parité , égalité salariale )
+et environnemental (action concrête en faveur de l'écologie, de l'environnement
+-Préciser et justifier de chaque euro facturé.
+-Le préstataire doit être présent le 10Novembre 2023 dans les locaux de l'entreprise situé à Toulouse en présence du Président de la république et de Mr le ministre de l'éducation
+devra répondre aux solicitation médiatique,avoir une tenue et une communication impeccable et avoir aux moins un homme et une femmes sur site
+
+le président de la république lancera le site avec la souris devant des caméra en direct, un membre de votre entreprise devra être présent à ses côté 
+Aucun bug ne doit arrivé !! 
+
+
+
+-interdicition:
+
+-couleur rouge
+-fautes d'orthographe
+- non respect de la deadline
+
+
+
+
+

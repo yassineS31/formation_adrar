@@ -1,0 +1,101 @@
+					
+			
+
+					Binaire
+
+
+
+
+
+
+Language binaire aussi appelé language en base 2 car il n'y a que 2 possibilités 0 ou 1
+
+l'ordinateur, via son processeur communique avec les différents éléments qui le compose (mémoire vive(ram) ou non, lecteur cd, logiciels ect...)
+en binaire sois avec une succession de 0 et de 1 
+
+En réalité tout ce qui est stocké sur nos ordinateur(mais aussi smartphone,tablette etc...) est représenté sous fome d'une suite de 0 et de 1.
+
+
+ 
+Le système binaire est donc la représentation d'une information ou chaque chiffre binaire ( 0 ou 1 ) est appelé "bit"
+les bits sont les uns à la suite des autres dans ce qu'on appelle un octet ( succesion de 8 bits).
+vous pouvez donc avoir: 
+
+0000 0000 équivalant à la valeur 0
+1111 1111 équivalant à la valeur 255
+
+Mais alors comment ça marche ?
+
+	En fait un un octet (pour rappel un octet = 8 bits et un bit = une valeur 0 ou 1) se décompose en atribuant à chaque
+bit une puissance de 2 en partant de la droite vers la gauche de manière croissante
+
+je m'explique: 
+
+0 vaut 2^0x0 sois 0
+1 vaut 2^0x1 sois 1
+
+Ceci est valable pour exprimé les deux états possible d'un bit
+
+
+Mais pour codé l'information, le processeur utilise beaucoup de bits,les bits sont donc regroupés par paquet de 8 
+qu'on appelle Octet (8 bits) 
+
+la l'information n'est plus 0 ou 1 mais permet d'exprimé une plage de valeurs de 0 à 255 
+
+voilà comment cela fonctionne 
+
+
+128 64 32 16 8 4 2 1 (ici la valeur que peut prendre chaque bit s'il vaut 1 dans le code binaire il sont bien par
+ordre croissant de la droite vers la gauche)
+
+
+par exemple le chiffre 28 s'exprime de la maniere suivante: 
+
+0001 1100
+
+0 ici la valeur maximal 128 sois 2^7x0
+0 ici la valeur 2^6x0
+0 là 2^5x0
+1 2^4x1 sois 16
+
+1 2^3x1 = 8
+1 2^2x1 = 4
+0 2^1x0 = 0
+0 et ici 2^0x0 = 0
+
+lorsqu'on additionne les bit dont la valeur est 1 on a donc 4+8+16 = 28 
+
+
+
+le chiffre 1 vaut  0001
+le chiffre 2 vaut  0010
+le chiffre 3 vaut  0011
+
+le chiffre 9 vaut  1001
+le Nombre 55 vaut  0011 0010
+
+Le système binaire permet au travers de bit, regroupé en octets de donner ou recevoir une information,instruction qui sera interprété par le processeur
+
+
+Chaque chiffre binaire est appelé bit. Un groupe de 8 bits est appelé octet. Derrière chaque octet, se cache une instruction ou un caractère.
+ Le système binaire a été inventé à la fin du XVIIe siècle par le philosophe et scientifique allemand Gottfried Leibniz. 
+Son invention ne fut pas saluée comme il l'avait espéré. Il découvrit un ouvrage chinois baptisé Yi Jing ou « Livre des changements », dans lequel il retrouva un code binaire comme celui qu'il avait imaginé. 
+Cette découverte consolida sa conviction selon laquelle le monde pourrait être beaucoup plus simple avec un code binaire.
+
+Cette idée revint en force au milieu du XIXe siècle après la publication d'un article de George Bool sur l'analyse de la logique, une théorie reprise par Claude Shannon dans les années 1930.
+Ce fut à cette époque que la théorie du code binaire commença réellement à être appliquée.
+
+De nos jours, le système binaire est au cœur de l'informatique et de l'électronique moderne car les ordinateurs fonctionnent fondamentalement comme des machines de Turing
+utilisant le système binaire. C'est Georges Boole qui a développé l'idée de calcul logique à partir du système binaire et Claude Shannon et George Stibitz qui ont posé 
+en 1937 les bases des calculs électroniques sur les nombres binaires, ouvrant la voie à l'informatique.
+
+le système binaire n'est pas seulement une suite de 0 et de 1 
+il permet d'éxprimé des états comme oui ou non, vrai ou faux marche ou arrêt( 
+
+
+
+
+
+
+
+

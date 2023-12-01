@@ -1,0 +1,15 @@
+il était une fois une petite souris qui mangeais des graines au beau milieu d'un champ
+
+
+
+1-	Créer un nouveau fichier texte sur le bureau de vote machine virtuelle, coller dedans du texte copier sur votre machine physique, puis refaite la manipulation en sens inverse.
+
+2-	Glisser le fichier texte du bureau de votre machine virtuelle vers votre machine physique, refaites la manipulation en sens inverse.
+
+3-	Ajouter le disque C:\ de votre machine physique comme Dossier partagé en lecture seule.
+
+4-	Cloner votre machine virtuelle, démarrer la machine, sous Windows vérifier votre adresse mac, est-elle différente de la machine originelle ? Sinon quel problème cela peut poser ? Changer l’adresse mac de votre machine virtuelle (même si elle est différente.)
+
+5-	Sur le clone quel est le nom d’ordinateur ? Si des noms sont identiques quel problème cela peut poser ? (Nom dans l’arborescence Virtual box)
+
+6-	Changer le nom de pc du Windows Cloné.
