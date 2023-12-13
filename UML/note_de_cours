@@ -1,0 +1,136 @@
+				Unified Modeling Language
+
+
+diagramme des classes important pour les cas où on travail en freelance
+
+
+
+a quoi et a qui sert le système que l'on va développer
+établir le cahier des charges fonctionnel
+
+scénarios d'utilisation
+avec séquences d'étapes
+cas d'utilisation ( fonctionnalités principale du système
+
+pas plus de 6 ou 8 cas dans un diagramme
+
+pour les détails, privilégier la description textuelle 
+
+gérer = crud
+crud = créate read update delete
+un acteur à un role particulier
+
+
+
+
+TP Bibliothèque
+
+1) 
+
+	Classifier un document 
+
+-acteur primaire : bibliothècaire
+
+	Consultation des index des documents :
+
+-acteur primaire : adhérent
+
+	Emprunter un livre:
+
+-acteur primaire: Adhérent 
+-acteur secondaire: Bibliothècaire
+
+	louer un livre:
+
+-acteur primaire: Adhérent
+-acteur secondaire : bibliothècaire
+
+	Retourner des documents
+
+-acteur primaire adhérent
+-acteur secondaire:bibliothècaire 
+
+
+
+						cardinalité
+
+
+chat 
+chien
+lapin
+
+
+Bruno
+Mickael
+Julie
+Alice
+
+pomme
+poire
+poireaux
+
+
+1.2
+inscrire les cardinallités
+
+
+Un animal appartient à une espece au minimum : oui 
+cardinalité minimum = 1
+cardinalité maximum=  1
+
+un animal appartient à une espece au maximum : oui
+cardinalité minimum = 1
+cardinalité maximum = 1
+
+Une espece comprend un animal au minimum : oui
+cardinalité minimum = 1
+cardinalité maximum = N
+
+Une espèce comprend un animal au maximum : Non
+cardinalité minimum = 1
+cardinalité maximum = N
+
+Une personne aime un animal au minimum: Non
+cardinalité minimum = 0
+cardinalité maximum = N
+
+Une personne aime un animal au maximum: Non
+cardinalité minimum = 0
+cardinalité maximum = N
+
+Un animal est aimé par une personne au minimum: Non
+cardinalité minimum = 0
+cardinalité maximum = N
+
+Un animal est aimé par une personne au maximum: Non
+cardinalité minimum = 0
+cardinalité maximum = N
+
+Un animal mange un aliment au minimum : Oui
+cardinalité minimum = 1
+cardinalité maximum = N
+
+Un animal mange un aliment au maximum: Non
+cardinalité minimum = 1
+cardinalité maximum = N
+
+Un aliment est mangé par un animal au minimum :Non
+cardinalité minimum = 0
+cardinalité maximum = N
+
+Un aliment est mangé par un animal au maximum : Non
+cardinalité minimum = 0
+cardinalité maximum = N
+
+
+
+
+
+
+
+
+
+
+
+
+
