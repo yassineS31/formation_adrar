@@ -1,0 +1,24 @@
+creer un vm client et serveur (généralement 4096Mb de ram et 1 ou 2 process)
+
+pour chaque vm 
+créer un disque dur virtualbox 50Gb (ne pas allouer la mémoire)
+ajouter les addition invité,
+périphériques ==> pressepapier ==> bidirectionnel 
+périphériques ==>glisserdeposer==> bidirectionnel
+configurer accès par pont
+configurer accès partager : périphériques ==> dossierpartager ==> cliquer sur le petit plus vert à droite puis séléctionner le chemin du dossier préalablement créer sur la machine physique (cocher lecture seule,montage automatique,configuration permanante)
+
+
+
+VM serveur : 
+toujour selectionner une version desktop 
+
+
+
+yass
+
+mdp(root) : azerty31
+
+
+yassinenoadmin
+mdp: yassomax31
