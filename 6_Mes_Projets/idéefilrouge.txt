@@ -1,0 +1,217 @@
+idée fil rouge : 
+
+site d'information sur les actualitées de la villes ( culture,sport etc...)
+
+site de commerçant (boulanger,garagiste)
+
+site d'information sur la qualité de vie de la ville par quartier etc...
+
+
+site d'échange de fruits et legumes entre particuliers 
+
+site de collection numerique 
+
+site d'avis en ligne
+
+site de type forum
+
+site chronoBTP
+
+site autonet
+
+site tuto
+
+site cooloc
+
+site TVF tv forum
+
+
+BuildingBTP: site de gestion de projet btp 
+mise en relation des divers intervenants , cahier des charge,suivi de projet/chantier
+chanels de communication multi
+	parti : 
+-CONTRAT 
+-INTERVENANTS
+-ACTUALITEES
+-MON COMPTES
+-HISTORIQUES (notament des transactions)
+
+permet de définir son projet sur la plateforme , selectionner un architecte,chef de chantier, entreprise du btp,
+artisants etc... de contractualisé en definissant sois même les articles du contrats , de les faire signer à toutes
+ les parties prenantes de verser les acomptes et autres paiements depuis la plateforme afin d'en securiser les transaction
+
+en gros : mise en relation des divers corps de metier du btp/artisanat et des particulier ou entreprises pour la
+réalisation de travaux afin de definir le cahier des charges et le contrats 
+le site permet notament de sécuriser les transaction puisque la plateforme et l'intermedaire entre le clients et les prestataires de services
+clients ====>BuildingBTP=====>Fournisseurs
+l'argent est verser sur buildingBTP et BuildingBTP bloque les versement jusqu'à réalisation de la tache ou les taches
+dans les delais prévu. sinon les pénalitées prévues seront mise à éxécution a la faveur du clients et a la charges du préstataires
+
+
+pourquoi nos clients utilisent t'il BuildingBTP ?
+
+	Car BuildingBTP permet de selectionner des préstataires tout en contractualisant les projet ! BuildingBTP 
+sécurise les transaction en étant un intermédaire entre le client et le préstataire. 
+
+ le client définit sont projet plus ou moins grossièrement, 
+le ou les préstataires concerner peuvent proposer leurs services afin de répondre à tout ou une partie du projet
+en proposant un devis qui inclus les contraintes/regles ( délai de réalisation projeté, date d'intervention etc...)
+ le client selectionne le ou les intervenants qu'il souhaite et contractualise (avec l'aide de contrats pré-établi, modèls,
+et prévoit notament des pénalités en cas de retard pour une ou plusieurs préstation ) 
+
+les acomptes et versement prévu dans les devis/contrats passent par la plateforme BuildingBTP afin de sécuriser les transactions et ne seront versés
+uniquement lors de la réalisation EFFECTIVES des préstations prévues ! Ce qui met fin à de nombreuse arnaques/ et retard excessif lors de la réalisation 
+de travaux, rassure donc les clients et permet une tenue des délais et un lien de confiance réciproque 
+
+les arnaqueurs et les entrepreneurs qui laisser trainer des chantier ne peuvent plus du moins sur la plateforme abusée de la confiance 
+des clients, et/ou faire trainer des chantier sur plusieurs semaines,mois voir années sans rendre de comptes ni pouvoir être contrain
+
+les clients ont l'assurance que leurs argents mis sur la plateforme, n'ira pas dans la poche des préstataires tant qu'ils n'auront pas
+réaliser la ou les préstations à laquelle ils se sont engager et a condition qu'ils est respectés les délai .(au quel cas des pénalitées 
+seront préalablement définis seront mise à éxécution toujours à la faveur du client ( qui paiera moins cher pour la réalisation de la
+ préstation)
+
+
+La plateforme permet également d'avoir le profil des entrepreneurs/entreprises :
+Nom :
+-Siret
+-Nbr d'employés
+-Activité récentes
+-CA
+-Avis des anciens clients (très important pour les futures clients) * les avis doivent provenir uniquement de clients qui ont éffectivement fait appel à cet entrepreneur, cette société
+-Taux de satisfaction clients
+-Taux de retard chantier ( très important !!) 
+
+
+Canaux de communication multi-préstataire
+
+permet au différents intervenants de communiquer de manière officiel et visible 
+
+Chanels de discussion privés 
+
+-permet de communiquer avec les different intervenant par corp de métier,entreprise,entrepreneurs etc ...
+
+
+
+la plateforme dispose de deux version, client, prestataire
+
+la partie préstataire dispose d'outils spécifiques , Marketplace (ventes outillage materiel,materiaux )
+recrutement de personnel (intérimaires, auto entrepreneur, préstataire exterieur )
+suivi de projet, 
+gestion de comptabilité,factures,agenda, outils de communication/marketing etc...
+statistique etc ... 
+
+
+
+ 
+
+
+
+
+
+
+
+
+html 
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Intitulé de ma page</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One"
+      rel="stylesheet"
+      type="text/css" />
+    <link rel="stylesheet" href="style.css" />
+
+   
+   
+  </head>
+
+  <body>
+    <!-- Voici notre en‑tête principale utilisée dans toutes les pages
+          de notre site web -->
+    <header>
+      <h1>En-tête</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">L'équipe</a></li>
+        <li><a href="#">Projets</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+
+      <!-- Un formulaire de recherche est une autre façon de naviguer de
+            façon non‑linéaire dans un site. -->
+
+      <form>
+        <input type="search" name="q" placeholder="Rechercher" />
+        <input type="submit" value="Lancer !" />
+      </form>
+    </nav>
+
+    <!-- Ici nous mettons le contenu de la page -->
+    <main>
+      <!-- Il contient un article -->
+      <article>
+        <h2>En-tête d'article</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam
+          lectus. Set sit amet ipsum mauris. Maecenas congue ligula as quam
+          viverra nec consectetur ant hendrerit. Donec et mollis dolor. Praesent
+          et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt
+          congue enim, ut porta lorem lacinia consectetur.
+        </p>
+
+        <h3>Sous‑section</h3>
+        <p>
+          Donec ut librero sed accu vehicula ultricies a non tortor. Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit. Aenean ut gravida lorem.
+          Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
+        </p>
+        <p>
+          Pelientesque auctor nisi id magna consequat sagittis. Curabitur
+          dapibus, enim sit amet elit pharetra tincidunt feugiat nist imperdiet.
+          Ut convallis libero in urna ultrices accumsan. Donec sed odio eros.
+        </p>
+
+        <h3>Autre sous‑section</h3>
+        <p>
+          Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum
+          soclis natoque penatibus et manis dis parturient montes, nascetur
+          ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem
+          facilisis semper ac in est.
+        </p>
+        <p>
+          Vivamus fermentum semper porta. Nunc diam velit, adipscing ut
+          tristique vitae sagittis vel odio. Maecenas convallis ullamcorper
+          ultricied. Curabitur ornare, ligula semper consectetur sagittis, nisi
+          diam iaculis velit, is fringille sem nunc vet mi.
+        </p>
+      </article>
+
+      <!-- Le contenu « à côté » peut aussi être intégré dans le contenu
+            principal -->
+      <aside>
+        <h2>En relation</h2>
+        <ul>
+          <li><a href="#">Combien j'aime être près des rivages</a></li>
+          <li><a href="#">Combien j'aime être près de la mer</a></li>
+          <li><a href="#">Bien que dans le nord de l'Angleterre</a></li>
+          <li><a href="#">Il n'arrête jamais de pleuvoir</a></li>
+          <li><a href="#">Eh bien…</a></li>
+        </ul>
+      </aside>
+    </main>
+
+    <!-- Et voici notre pied de page utilisé sur toutes les pages du site -->
+    <footer>
+      <p>©Copyright 2050 par personne. Tous droits reversés.</p>
+    </footer>
+  </body>
+</html>
+
