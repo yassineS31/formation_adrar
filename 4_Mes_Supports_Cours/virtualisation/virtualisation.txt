@@ -12,13 +12,3 @@ configurer accès partager : périphériques ==> dossierpartager ==> cliquer sur
 
 VM serveur : 
 toujour selectionner une version desktop 
-
-
-
-yass
-
-mdp(root) : azerty31
-
-
-yassinenoadmin
-mdp: yassomax31
